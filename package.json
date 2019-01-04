@@ -1,0 +1,16 @@
+{
+  "name": "canvas-publish-courses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-api-wrapper": "^3.3.5",
+    "d3-dsv": "^1.0.10",
+    "strip-bom": "^3.0.0"
+  }
+}
